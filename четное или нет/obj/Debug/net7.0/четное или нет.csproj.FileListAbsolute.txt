@@ -1,0 +1,15 @@
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.csproj.AssemblyReference.cache
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.AssemblyInfoInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.AssemblyInfo.cs
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\bin\Debug\net7.0\четное или нет.exe
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\bin\Debug\net7.0\четное или нет.deps.json
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\bin\Debug\net7.0\четное или нет.runtimeconfig.json
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\bin\Debug\net7.0\четное или нет.dll
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\bin\Debug\net7.0\четное или нет.pdb
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.dll
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\refint\четное или нет.dll
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.pdb
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\четное или нет.genruntimeconfig.cache
+A:\Git\REP2403\C#\ДЗ 1\четное или нет\obj\Debug\net7.0\ref\четное или нет.dll

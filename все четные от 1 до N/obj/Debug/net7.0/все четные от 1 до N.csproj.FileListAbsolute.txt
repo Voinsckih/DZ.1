@@ -1,0 +1,15 @@
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\bin\Debug\net7.0\все четные от 1 до N.exe
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\bin\Debug\net7.0\все четные от 1 до N.deps.json
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\bin\Debug\net7.0\все четные от 1 до N.runtimeconfig.json
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\bin\Debug\net7.0\все четные от 1 до N.dll
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\bin\Debug\net7.0\все четные от 1 до N.pdb
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.csproj.AssemblyReference.cache
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.AssemblyInfoInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.AssemblyInfo.cs
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.dll
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\refint\все четные от 1 до N.dll
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.pdb
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\все четные от 1 до N.genruntimeconfig.cache
+A:\Git\REP2403\C#\ДЗ 1\все четные от 1 до N\obj\Debug\net7.0\ref\все четные от 1 до N.dll
