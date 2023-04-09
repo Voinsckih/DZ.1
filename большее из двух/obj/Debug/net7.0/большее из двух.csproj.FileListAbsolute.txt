@@ -1,0 +1,15 @@
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\bin\Debug\net7.0\большее из двух.exe
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\bin\Debug\net7.0\большее из двух.deps.json
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\bin\Debug\net7.0\большее из двух.runtimeconfig.json
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\bin\Debug\net7.0\большее из двух.dll
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\bin\Debug\net7.0\большее из двух.pdb
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.csproj.AssemblyReference.cache
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.GeneratedMSBuildEditorConfig.editorconfig
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.AssemblyInfoInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.AssemblyInfo.cs
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.csproj.CoreCompileInputs.cache
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.dll
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\refint\большее из двух.dll
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.pdb
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\большее из двух.genruntimeconfig.cache
+A:\Git\REP2403\C#\ДЗ 1\большее из двух\obj\Debug\net7.0\ref\большее из двух.dll
